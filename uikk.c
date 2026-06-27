@@ -1,7 +1,6 @@
 #include <stdio.h>
 
-int main(void) {
-    /* Hardcoded input N = 22 as requested */
+int main() {
     int N = 22;
 
     int regular_teams = N / 4;
